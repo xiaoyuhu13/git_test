@@ -1,1 +1,3 @@
 Hello World!
+
+Testing git commit with no -m
